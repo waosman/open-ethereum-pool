@@ -1,7 +1,5 @@
 ## Open Source Ethereum Mining Pool
 
-[List Of Open Ethereum Pools](https://github.com/techievee/open-ethereum-pool/wiki/List-Of-Open-Pools)
-
 ### Features
 
 **This pool is being further developed to provide an easy to use pool for Ethereum miners. This software is functional however an optimised release of the pool is expected soon. Testing and bug submissions are welcome!**
@@ -14,10 +12,6 @@
 * JSON-API for stats
 * PPLNS block reward
 
-#### Proxies
-
-* [Ether-Proxy](https://github.com/techievee/ether-proxy) HTTP proxy with web interface
-* [Stratum Proxy](https://github.com/Atrides/eth-proxy) for Ethereum
 
 ### Building on Linux
 
