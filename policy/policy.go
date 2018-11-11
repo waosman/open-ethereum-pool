@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/techievee/open-ethereum-pool/storage"
-	"github.com/techievee/open-ethereum-pool/util"
+	"github.com/waosman/open-ethereum-pool/storage"
+	"github.com/waosman/open-ethereum-pool/util"
 
 )
 
