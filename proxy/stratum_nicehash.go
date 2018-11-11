@@ -9,7 +9,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/techievee/open-ethereum-pool/util"
+	"github.com/waosman/open-ethereum-pool/util"
 	"math/rand"
 	"strings"
 )
