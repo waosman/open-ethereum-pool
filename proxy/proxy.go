@@ -11,12 +11,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/gorilla/mux"
+	"github.com/waosman/mux"
 
-	"github.com/techievee/open-ethereum-pool/policy"
-	"github.com/techievee/open-ethereum-pool/rpc"
-	"github.com/techievee/open-ethereum-pool/storage"
-	"github.com/techievee/open-ethereum-pool/util"
+	"github.com/waosman/open-ethereum-pool/policy"
+	"github.com/waosman/open-ethereum-pool/rpc"
+	"github.com/waosman/open-ethereum-pool/storage"
+	"github.com/waosman/open-ethereum-pool/util"
 )
 
 type ProxyServer struct {
