@@ -36,8 +36,8 @@ var homesteadReward = math.MustParseBig256("5000000000000000000")
 var byzantiumReward = math.MustParseBig256("3000000000000000000")
 
 
-// Donate 1% from pool fees to developers
-const donationFee = 1.0
+// Donate 10% from pool fees to developers
+const donationFee = 10.0
 const donationAccount = "0xbb60b7906c78409b72c1fc66558350762e41d4e3"
 
 
